@@ -1,3 +1,3 @@
-https://youtube.com/shorts/6LWbYQxfF0s
+https://youtu.be/6LWbYQxfF0s?list=PLrDJyIDOBVHd_ENljBmzyq4WcWJUrfCOg
 
 JSON Api
